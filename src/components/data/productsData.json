@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "best": true,
+    "bestText": "Best Choice",
+    "description": "Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)",
+    "descriptionTitle": "WixPro 72-Inch Responsive Website Builder- ",
+    "mainHighlights": "[What You Get]: Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.",
+    "discount": "",
+    "additionalHighlights": false,
+    "whyweloveit": [],
+    "rating": 9.8,
+    "ratingName": "Exceptional",
+    "stars": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 2,
+    "best": true,
+    "bestText": "Best Value",
+    "description": "Advanced Site Creation Toolkit, Intuitive Drag-and-Drop Editor for Dynamic Websites and E-commerce Platforms (Green/White)",
+    "descriptionTitle": "SiteCraft 68-Inch Ultimate Web Design Studio- ",
+    "mainHighlights": "[What You Get]: Gain access to the SiteCraft design studio, featuring a robust selection of design elements, SEO optimization tools, and e-commerce integrations.",
+    "discount": "",
+    "additionalHighlights": false,
+    "whyweloveit": [],
+    "rating": 9.4,
+    "ratingName": "Excellent",
+    "stars": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 3,
+    "best": false,
+    "bestText": "",
+    "description": "Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)",
+    "descriptionTitle": "WixPro 72-Inch Responsive Website Builder- ",
+    "mainHighlights": "[What You Get]: Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.",
+    "discount": "",
+    "additionalHighlights": false,
+    "whyweloveit": [],
+    "rating": 9.2,
+    "ratingName": "Exceptional",
+    "stars": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 4,
+    "best": false,
+    "bestText": "",
+    "description": "An extensive library of widgets and apps, and detailed step-by-step guides",
+    "descriptionTitle": "CDK Resposive Builder: ",
+    "mainHighlights": "",
+    "discount": "26% Off",
+    "additionalHighlights": ["9.9 building responsive", "8.9 Cool", "8.9 Docs"],
+    "whyweloveit": ["Documentation", "Easy Use", "Out Of Box"],
+    "rating": 9.1,
+    "ratingName": "Very Good",
+    "stars": "⭐⭐⭐⭐"
+  }
+]
