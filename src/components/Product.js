@@ -1,7 +1,7 @@
 import React from "react";
 export default function Product(props) {
   const data = props.props;
-  console.log(data.additionalHighlights);
+  // console.log(data.additionalHighlights);
   return (
     <div className="product">
       <div className="id">{data.id}</div>

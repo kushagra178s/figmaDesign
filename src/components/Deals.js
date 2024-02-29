@@ -13,7 +13,7 @@ export default function Deals() {
         <div className="deals-signup-text">
           Sign up and get exclusive special deals
         </div>
-        <div>
+        <div className="signup-input">
           <input type="text" />
           <button>Sign Up</button>
         </div>

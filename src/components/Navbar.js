@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = () => {
   return (
     <div className="navbar">
-      <div>
+      <div className='navbar-links'>
         <input type="text" />
         <a href="/" className="nav-item">
           Catergories
